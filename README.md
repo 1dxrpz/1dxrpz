@@ -1,4 +1,4 @@
-</a href="#">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1dxrpz&show_icons=true&theme=dracula" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dxrpz&layout=compact&theme=dracula" />
 </a>
