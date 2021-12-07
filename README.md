@@ -8,5 +8,6 @@
 </a>
 <a href="https://github.com/1dxrpz/GibsonCore-v1.1.2">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=1dxrpz&repo=GibsonCore-v1.1.2&theme=dracula" />
+  <img align="left" src="https://kennethgibson.site/" />
   
 </a>
