@@ -9,3 +9,7 @@
 <a href="https://github.com/1dxrpz/GibsonCore-v1.1.2">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=1dxrpz&repo=GibsonCore-v1.1.2&theme=dracula" />
 </a>
+<a href="https://github.com/1dxrpz/PanelsUI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=1dxrpz&repo=PanelsUI&theme=dracula" />
+</a>
+
