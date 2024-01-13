@@ -17,6 +17,3 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dxrpz&layout=compact&theme=dracula" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=1dxrpz&show_icons=true&hide_title=true&theme=dracula" />
 <center>
-
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=1dxrpz&theme=onedark" />
-
